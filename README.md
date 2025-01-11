@@ -10,3 +10,4 @@
 
 This is an example of a GitHub repository.
 It's a new beginning!
+Started my first practice exercise.
